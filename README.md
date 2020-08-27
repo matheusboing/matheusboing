@@ -5,7 +5,7 @@ Meu nome é Matheus Boing, estudante de Sistemas de informação no 4 semestre p
 
 ---
 *English*\
-My name is Matheus Boing, I am an Information Systems student in the 4th semester at [Fundação Universidade Regional de Blumenau](https://www.furb.br). I am a Developer with knowledge in the main technologies, such as: Python, C #, Java, JavaScript, SQL, among others. I want to specialize in Artificial Intelligence and Information Security, so that I can contribute to building solutions that generate greater data integrity and process automation.
+My name is Matheus Boing, I am an Information Systems student in the 4th semester at [Fundação Universidade Regional de Blumenau](https://www.furb.br). I am a Developer with knowledge in the main technologies, such as: Python, C#, Java, JavaScript, SQL, among others. I want to specialize in Artificial Intelligence and Information Security, so that I can contribute to building solutions that generate greater data integrity and process automation.
 <!--
 **matheusboing/matheusboing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
